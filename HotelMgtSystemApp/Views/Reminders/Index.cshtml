@@ -1,0 +1,59 @@
+﻿@model IEnumerable<HotelMgtSystemApp.Models.EntityModels.Reminder>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReminderType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReminderDetail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemindDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookingId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReminderType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReminderDetail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RemindDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

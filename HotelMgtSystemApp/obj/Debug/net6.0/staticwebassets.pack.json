@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HotelMgtSystemApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelMgtSystemApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\about.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\about.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\booking.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\booking.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\contact.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\contact.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\hotel-html-template.jpg",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\hotel-html-template.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\index.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\index.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\js\\main.js",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\js\\main.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\room.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\room.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\service.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\service.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\team.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\team.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\hotel-html-template\\testimonial.html",
+      "PackagePath": "staticwebassets\\asset\\hotel-html-template\\testimonial.html"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\HD-wallpaper-beautiful-girl-with-a-glass-model-romantic.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\HD-wallpaper-beautiful-girl-with-a-glass-model-romantic.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\about-4.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\room-2.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\room-2.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\video.jpg"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\asset\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\asset\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HotelMgtSystemApp\\HotelMgtSystemApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelMgtSystemApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HotelMgtSystemApp.props",
+      "PackagePath": "build\\HotelMgtSystemApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelMgtSystemApp.props",
+      "PackagePath": "buildMultiTargeting\\HotelMgtSystemApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HotelMgtSystemApp.props",
+      "PackagePath": "buildTransitive\\HotelMgtSystemApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
